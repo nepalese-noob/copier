@@ -1,3 +1,4 @@
+#!/bin/bash
 read -p "do you want to start desktop? y/n: " dt
 if [ "$dt" = "y" ]; then
 nh kex
