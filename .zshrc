@@ -143,4 +143,4 @@ ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=39'
 ZSH_HIGHLIGHT_STYLES[comment]=fg=226,bold
 cols=$(tput cols)
 bash ~/.banner.sh ${cols} ${TNAME}
-bash desktop.sh
+nhpack.sh
